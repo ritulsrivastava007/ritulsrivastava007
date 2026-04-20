@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-I'm Ritul Srivastava 1st year BTech computer major student<br>languages like html java c c++ visual basic 6.0<br>current working on to improve my problem solving skills <br>help to understand git better<br>only basics of coding language<br>fun fact:- I can work with food as fees <br>I took PCM+CS yet struggling to solve real world problem
+I'm Ritul Srivastava 1st year BTech computer major student<br>languages like Html, Java, C, C++ Visual Basic 6.0<br>current working on to improve my problem solving skills <br>help me to understand git better<br>fun fact:- I accet food as my payment for service <br>I took PCM+CS yet struggling to solve real world problem
 
 
 ## 🌐 Socials:
