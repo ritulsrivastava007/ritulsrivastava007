@@ -1,7 +1,7 @@
 ## Hi there 👋
 # 💫 About Me:
-I'm Ritul, BTech computer major student<br>languages like Html, Java, C, C++ Visual Basic 6.0<br>current working on to improve my problem solving skills <br>help me to understand git better<br>fun fact:- I accept food as my payment for service <br>I took PCM+CS yet struggling to solve real world problem
-
+I'm Ritul, BTech computer major student<br>languages like Html, Java, C, C++ Visual Basic 6.0<br>current working on to improve my problem solving skills <br>help me to understand git better<br>fun fact:- I accept food as my payment for service <br>I took PCM+CS yet struggling to solve real world problem.
+🚀 Here to learn, build, and connect. If I followed you, it's because your work inspired me. ✨
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anadamant) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ritul-srivastava83a013b0) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ritulsrivastava007) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ritul.srivastava007@gmail.com) 
